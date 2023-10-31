@@ -1,0 +1,8 @@
+# Ignore virtual environment
+venv/
+
+# Ignore .idea folder
+.idea/
+
+# Ignore .python-version file
+.python-version
